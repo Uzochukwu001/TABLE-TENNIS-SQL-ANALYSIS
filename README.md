@@ -25,7 +25,11 @@ Each task was spotlighted below with its appropriate image and the following dat
 
 
 
+
+
 ![Screenshot (93)](https://user-images.githubusercontent.com/112668327/201498856-6188cfdc-561d-4fc5-abab-eebfe9628bda.png)
+
+
 
 
 
@@ -33,14 +37,22 @@ Each task was spotlighted below with its appropriate image and the following dat
 
 
 
+
+
 ![Screenshot (95)](https://user-images.githubusercontent.com/112668327/201498980-067321ff-c56b-4c71-8262-741b8bec80d9.png)
+
+
 
 
 - Show the score of player 'Phil Watertank' for games that he lost. Expected output (Game ID, Player Name, Player Lastname, Score).
 
 
 
+
+
 ![Screenshot (97)](https://user-images.githubusercontent.com/112668327/201499093-89333143-b053-4cf8-bb16-40c0101e4ecf.png)
+
+
 
 
 
@@ -82,4 +94,9 @@ Each task was spotlighted below with its appropriate image and the following dat
 
 - Show the list of player combinations who have never played together. Expected output (Player 1, Player 2). Reverse duplicates are authorized (A-E and E-A for example)
 
+
+
+
+
+![Screenshot (99)](https://user-images.githubusercontent.com/112668327/201499379-a75b3df8-f569-49ba-ba77-8ca6e70c1268.png)
 
